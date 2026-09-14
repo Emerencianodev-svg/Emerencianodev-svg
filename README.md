@@ -7,10 +7,7 @@
 
   <br>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=70&lines=👋+Hello+World!+Eu+sou+Samuel!;💻+Estudante+de+Engenharia+de+Software;🚀+Desenvolvedor+em+forma%C3%A7%C3%A3o;🧠+Aprendendo%2C+construindo+e+evoluindo;✨+Transformando+ideias+em+solu%C3%A7%C3%B5es"
-    alt="Animação de apresentação"
-  />
+
 
   <br>
 
