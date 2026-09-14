@@ -1,23 +1,24 @@
-<!--
-  README de perfil — Samuel Emerenciano
-  Identidade visual: Azul / Ciano
--->
-
 <div align="center">
 
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=👋%20Hello%20World!%20I'm%20Samuel!&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,50:007BFF,100:00D4FF&height=200&section=header&text=Samuel%20Emerenciano&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35"
     width="100%"
-  />
-
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=800&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+de+Software+em+forma%C3%A7%C3%A3o;Construindo+projetos+e+aprendendo+todos+os+dias;Transformando+ideias+em+solu%C3%A7%C3%B5es"
-    alt="Typing SVG"
   />
 
   <br>
 
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=flat-square&color=00C6FF" alt="" hidden>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=850&height=70&lines=👋+Hello+World!+Eu+sou+Samuel!;💻+Estudante+de+Engenharia+de+Software;🚀+Desenvolvedor+em+forma%C3%A7%C3%A3o;🧠+Aprendendo%2C+construindo+e+evoluindo;✨+Transformando+ideias+em+solu%C3%A7%C3%B5es"
+    alt="Animação de apresentação"
+  />
+
+  <br>
+
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284115-fb1f1b58-7a7e-4f8e-9d5d-1e8f7e7d8e2c.gif"
+    width="100%"
+    alt="Linha animada"
+  />
 
 </div>
 
@@ -27,13 +28,13 @@
 
 Olá! Eu sou **Samuel Emerenciano**, estudante de **Engenharia de Software** na **Universidade Católica de Brasília**.
 
-Minha trajetória na tecnologia começou com o **Técnico em Informática**, onde tive contato com diferentes áreas da computação e comecei a desenvolver minha base técnica. Atualmente, venho aprofundando meus conhecimentos em programação, desenvolvimento web, lógica de programação, banco de dados e fundamentos de Engenharia de Software.
+Minha trajetória na tecnologia começou com o **Técnico em Informática**, onde construí minha base na área e comecei a desenvolver meu interesse por programação.
 
-Tenho interesse em **desenvolvimento de software** e busco transformar aquilo que aprendo em projetos práticos, evoluindo continuamente minhas habilidades e minha forma de resolver problemas.
+Atualmente, venho evoluindo meus conhecimentos em **Java, JavaScript, Python e C**, além de estudar **desenvolvimento web, modelagem de dados e Engenharia de Software**.
 
-Estou construindo minha carreira passo a passo, sempre buscando aprender novas tecnologias, colocar conhecimento em prática e evoluir como desenvolvedor.
+Gosto de transformar aquilo que aprendo em projetos práticos, buscando evoluir constantemente como desenvolvedor.
 
-> 💡 **Meu objetivo é transformar conhecimento em soluções práticas, construindo minha carreira em tecnologia e evoluindo um projeto de cada vez.**
+> 💡 **Meu objetivo é transformar conhecimento em soluções, construindo minha carreira em tecnologia e evoluindo um projeto de cada vez.**
 
 ---
 
@@ -56,31 +57,31 @@ Estou construindo minha carreira passo a passo, sempre buscando aprender novas t
 
 ## 💻 Tecnologias
 
-### 🧑‍💻 Linguagens
+### 👨‍💻 Linguagens
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c" alt="Java, JavaScript, Python e C">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c" />
 </p>
 
 ### 🌐 Web & Design
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,figma" alt="HTML, CSS e Figma">
+  <img src="https://skillicons.dev/icons?i=html,css,figma" />
 </p>
 
-### 🛠️ Ferramentas & Desenvolvimento
+### 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea" alt="Visual Studio Code e IntelliJ IDEA">
+  <img src="https://skillicons.dev/icons?i=vscode,idea" />
 </p>
 
-### 🗄️ Banco de Dados & Modelagem
+### 🗄️ Banco de Dados
 
 <p align="center">
 
-**Diagrama Entidade-Relacionamento (DER)**
+**Diagrama Entidade-Relacionamento**
 
-`Entidades` ─── `Relacionamentos` ─── `Atributos`
+`Entidades` ──→ `Relacionamentos` ──→ `Atributos`
 
 </p>
 
@@ -89,30 +90,36 @@ Estou construindo minha carreira passo a passo, sempre buscando aprender novas t
 ## 📂 No que estou trabalhando
 
 - ☕ Aprimorando meus conhecimentos em **Java**
-- 🧠 Fortalecendo minha **lógica de programação** com Java, Python e C
-- 🌐 Desenvolvendo e estudando **HTML e CSS**
-- 🎨 Aprendendo a transformar ideias em interfaces utilizando **Figma**
-- 🗄️ Desenvolvendo conhecimentos em **modelagem de dados e Diagramas Entidade-Relacionamento**
-- 💻 Evoluindo minha utilização de ferramentas como **VS Code e IntelliJ IDEA**
-- 📚 Aprofundando meus conhecimentos em **Engenharia de Software**
-- 🚀 Transformando o aprendizado em **projetos práticos**
-- 💼 Me preparando para construir uma carreira no **desenvolvimento de software**
+- 🧠 Fortalecendo minha **lógica de programação**
+- 🌐 Estudando **HTML e CSS**
+- 🎨 Desenvolvendo interfaces com **Figma**
+- 🗄️ Aprendendo **modelagem de dados**
+- 📚 Aprofundando conhecimentos em **Engenharia de Software**
+- 🚀 Criando projetos para transformar teoria em prática
+- 💼 Me preparando para oportunidades no mercado de tecnologia
 
 ---
 
 ## 🌱 Sempre Aprendendo
 
+<div align="center">
+
 ```text
-┌──────────────────────────────────────┐
-│                                      │
-│  while (alive) {                     │
-│                                      │
-│      learn();                        │
-│      build();                        │
-│      fail();                         │
-│      improve();                      │
-│      repeat();                       │
-│                                      │
-│  }                                   │
-│                                      │
-└──────────────────────────────────────┘
+        ┌──────────────────────┐
+        │       LEARN          │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │       BUILD          │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │       FAIL           │
+        └──────────┬───────────┘
+                   ↓
+        ┌──────────────────────┐
+        │      IMPROVE         │
+        └──────────┬───────────┘
+                   ↓
+                 REPEAT
+                   ↺
